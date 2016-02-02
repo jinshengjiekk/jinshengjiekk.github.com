@@ -9,7 +9,7 @@
   <meta name="author" content="Your Name">
 
   
-  <meta name="description" content=" Blog Archives Recent Posts ">
+  <meta name="description" content=" Blog Archives Recent Posts Categories {% category_list %} ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -84,7 +84,12 @@
 
 
 
-
+<section>
+  <h1>Categories</h1>
+  <ul id="categories">
+    {% category_list %} 
+  </ul>
+</section>
   
 </aside>
 
