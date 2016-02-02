@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jinshengjiekk.github.io/sitemap.xml 
