@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[金盛杰的博客]]></title>
-  <link href="http://jinshengjiekk.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[分类：杂记 | 金盛杰的博客]]></title>
+  <link href="http://jinshengjiekk.github.io/blog/categories/za-ji/atom.xml" rel="self"/>
   <link href="http://jinshengjiekk.github.io/"/>
   <updated>2016-02-13T20:46:02+08:00</updated>
   <id>http://jinshengjiekk.github.io/</id>
