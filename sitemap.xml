@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://jinshengjiekk.github.io/blog/%25E4%25B8%25AA%25E4%25BA%25BA%25E6%258A%2580%25E6%259C%25AF%25E5%258D%259A%25E5%25AE%25A2%25E6%2590%25AD%25E5%25BB%25BA%25E9%2585%258D%25E7%25BD%25AE%25E5%25AE%258C%25E6%2588%2590.html/</loc>
-<lastmod>2016-02-13T19:50:32+08:00</lastmod>
-</url>
-<url>
 <loc>http://jinshengjiekk.github.io/blog/archives/</loc>
 </url>
 <url>
@@ -12,8 +8,5 @@
 </url>
 <url>
 <loc>http://jinshengjiekk.github.io/java/</loc>
-</url>
-<url>
-<loc>http://jinshengjiekk.github.io/blog/categories/za-ji/</loc>
 </url>
 </urlset>
