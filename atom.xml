@@ -4,7 +4,7 @@
   <title><![CDATA[金盛杰的博客]]></title>
   <link href="http://jinshengjiekk.github.io/atom.xml" rel="self"/>
   <link href="http://jinshengjiekk.github.io/"/>
-  <updated>2016-02-14T11:31:25+08:00</updated>
+  <updated>2016-08-27T01:54:16+08:00</updated>
   <id>http://jinshengjiekk.github.io/</id>
   <author>
     <name><![CDATA[jinshengjie]]></name>
@@ -12,5 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My_test_post_20160827]]></title>
+    <link href="http://jinshengjiekk.github.io/blog/my-test-post-20160827.html/"/>
+    <updated>2016-08-27T01:47:32+08:00</updated>
+    <id>http://jinshengjiekk.github.io/blog/my-test-post-20160827</id>
+    <content type="html"><![CDATA[<h2 id="asdflasdfjklasdf">asdflasdfjklasdf阿萨德飞</h2>
+<p>安分阿萨德飞大家阿萨德飞阿萨德飞阿萨德飞；就阿萨德飞
+阿萨德飞 阿萨德飞看两节课阿萨德飞科技阿萨德飞 阿萨德飞圣达菲阿萨德飞的规范化撒的发更asf阿萨德飞</p>
+
+<p>安分
+1. 阿萨德发撒的发阿萨德飞
+2. 阿萨德飞阿萨德飞啊实打实大分
+3. 阿萨德发阿萨德飞</p>
+
+<h5 id="section">阿萨德发阿萨德飞</h5>
+<blockquote>
+  <p>阿萨德飞阿萨德飞阿萨德飞阿萨德飞阿萨德发撒的发阿萨德飞圣达菲</p>
+</blockquote>
+
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+</pre></td><td class="code"><pre><code class="bash"><span class="line">public static void main<span class="o">(){</span>
+</span><span class="line"><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+]]></content>
+  </entry>
   
 </feed>
