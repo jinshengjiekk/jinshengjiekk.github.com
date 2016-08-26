@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[金盛杰的博客]]></title>
+  <title><![CDATA[Hello King的博客]]></title>
   <link href="http://jinshengjiekk.github.io/atom.xml" rel="self"/>
   <link href="http://jinshengjiekk.github.io/"/>
-  <updated>2016-08-27T01:54:16+08:00</updated>
+  <updated>2016-08-27T02:01:58+08:00</updated>
   <id>http://jinshengjiekk.github.io/</id>
   <author>
     <name><![CDATA[jinshengjie]]></name>
