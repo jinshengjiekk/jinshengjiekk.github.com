@@ -4,7 +4,7 @@
   <title><![CDATA[Hello King的博客]]></title>
   <link href="http://jinshengjiekk.github.io/atom.xml" rel="self"/>
   <link href="http://jinshengjiekk.github.io/"/>
-  <updated>2016-08-28T15:18:15+08:00</updated>
+  <updated>2016-08-28T15:27:00+08:00</updated>
   <id>http://jinshengjiekk.github.io/</id>
   <author>
     <name><![CDATA[jinshengjie]]></name>
@@ -18,7 +18,32 @@
     <link href="http://jinshengjiekk.github.io/blog/mac-test.html/"/>
     <updated>2016-08-28T15:16:28+08:00</updated>
     <id>http://jinshengjiekk.github.io/blog/mac-test</id>
-    <content type="html"><![CDATA[<p>MAC TEST JSJ 20160828</p>
+    <content type="html"><![CDATA[<h3 id="mac-test-jsj-20160828">MAC TEST JSJ 20160828</h3>
+
+<ol>
+  <li>adsf asdfasdf adsfasd</li>
+  <li>234</li>
+  <li>~~afdasdf~~</li>
+  <li>
+    <blockquote>
+      <p>asfasdfasdf  adsf</p>
+    </blockquote>
+  </li>
+  <li>
+    <p><code>asdf asdf asdf 
+ af 
+    af asdf
+</code></p>
+  </li>
+  <li>asdf asdf 啊发动机阿迪舒服 阿迪舒服</li>
+</ol>
+
+<p>＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃</p>
+
+<p>阿福阿福看看拉
+jinshengjiekk@163.com
+adf asdf</p>
+
 ]]></content>
   </entry>
   
