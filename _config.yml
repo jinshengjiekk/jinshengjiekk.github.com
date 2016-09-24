@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://jinshengjiekk.github.io
-title: Hello King的博客
+title: 小金子的博客
 subtitle: 一个有心的人会在平淡琐碎的时光中根植梦想，抓紧时光充实自己，创造机会，最终，他们就会在别人感慨平庸生活的时候，收获成功。
 author: jinshengjie
 #simple_search: https://www.google.com/search
-description:
+description:小金子的博客
 
 
 lsi: true
@@ -16,10 +16,10 @@ lsi: true
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "%Y年%m月%d日"
+date_format: "%Y年%m月%d日 --"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss:
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -30,7 +30,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:title.html/
+permalink: /blog/:title
 source: source
 destination: public
 plugins: plugins
@@ -49,7 +49,7 @@ paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "阅读全文"  # "Continue reading" link text at the bottom of excerpted articles
-excerpt_separator: "<!--more-->"
+excerpt_separator: "<!--继续阅读-->"
 
 titlecase: true       # Converts page and post titles to titlecase
 
@@ -75,7 +75,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
